@@ -1,1 +1,11 @@
-export { mdiHomeOutline, mdiWhiteBalanceSunny, mdiWeatherNight } from '@mdi/js'
+export {
+  mdiHomeOutline,
+  mdiWhiteBalanceSunny,
+  mdiWeatherNight,
+  mdiMagnify,
+  mdiMenu,
+  mdiPlus,
+  mdiChevronDown,
+  mdiWeb,
+  mdiAccountOutline
+} from '@mdi/js'

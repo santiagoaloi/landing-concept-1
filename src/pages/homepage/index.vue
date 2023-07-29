@@ -1,3 +1,8 @@
 <template>
-  <div>Hello from homepage</div>
+  <HomeHero />
 </template>
+<route lang="yaml">
+name: homepage
+meta:
+  hideOverflow: true
+</route>

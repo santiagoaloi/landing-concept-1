@@ -2,13 +2,13 @@ export default {
   light: {
     dark: false,
     colors: {
-      primary: '#0062f0',
+      primary: '#4539e7',
       surface: '#fff',
       error: '#ff4081',
-      secondary: '#0062f0',
-      background: '#f0f2f5',
+      secondary: '#4539e7',
+      background: '#0a1849',
 
-      'appbar-background': '#0062f0',
+      'appbar-background': '#fff',
       drawer: '#fff',
 
       'inner-card': '#fbfbfb',
@@ -30,7 +30,7 @@ export default {
 
       //Custom vars
       'app-background': '#f6f8fa',
-      'app-typography': '#3b4256',
+      'app-typography': '#fff',
 
       'medium-emphasis-opacity': 0.68,
 

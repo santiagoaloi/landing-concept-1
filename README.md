@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="public/company_logos/logo.svg" alt="Company logo">
+    <img width="180" src="public/logo.png" alt="Company logo">
   </a>
 </p>
 
@@ -44,10 +44,10 @@
 ```bash
 
 # clone
-git clone https://github.com/santiagoaloi/simple-boilerplate.git
+git clone https://github.com/santiagoaloi/landing-concept-1
 
 # enter the project directory
-cd simplesign-refactor
+cd landing-concept-1
 
 # install dependencies
 yarn install

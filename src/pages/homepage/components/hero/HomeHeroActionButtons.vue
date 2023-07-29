@@ -8,7 +8,7 @@
       size="x-large"
       variant="tonal"
     >
-      Post a free job
+      Learn more
     </VBtn>
   </div>
 </template>
